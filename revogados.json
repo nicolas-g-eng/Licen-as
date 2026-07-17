@@ -2,5 +2,9 @@
   "revogados": [
     "0C29-BA90-DA8C-33E7-CFA4-BFCF-3BF8-65C5"
   ],
-  "renovado_ate": {}
+  "renovado_ate": {},
+  "atualizacao": {
+    "versao_padrao": "1.0.4",
+    "por_maquina": {}
+  }
 }
